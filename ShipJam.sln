@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BD815249-5D9F-BB69-6C3B-BFDAF31885F6}") = "ShipJam", "Assembly-CSharp.csproj", "{CFF354D4-962C-A28C-7331-1C94C7B8B29E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFF354D4-962C-A28C-7331-1C94C7B8B29E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF354D4-962C-A28C-7331-1C94C7B8B29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF354D4-962C-A28C-7331-1C94C7B8B29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF354D4-962C-A28C-7331-1C94C7B8B29E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
